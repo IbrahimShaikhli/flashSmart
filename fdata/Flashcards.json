@@ -1,0 +1,13 @@
+{
+
+    "question": [
+        "こんにちは, Konnichiwa",
+        "おはよう, Ohayou",
+        "お元気ですか, Ogenkidesuka"
+    ],
+    "answer": [
+        "Hello",
+        "Good Morning",
+        "How are you doing?"
+    ]
+}
