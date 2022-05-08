@@ -8,3 +8,9 @@ A very basic applicaiton using the flashcard widget, intitally wanted to include
 
 Project on halt in the meanwhile.
 
+https://prnt.sc/dPbp2Jzqlea5
+
+https://prnt.sc/7RgsVjYhlQ9d
+
+
+
